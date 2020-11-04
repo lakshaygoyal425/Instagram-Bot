@@ -13,6 +13,8 @@
 ## Usage
 ```
 python Instagram Bot.py
+OR
+python Bot.py
 ```
 
 ### Technologies used
